@@ -18,6 +18,12 @@ An educational Python application that fetches historical US-stock data from the
 4. Reports a 5th–95th percentile final-price range and probabilities of profit, +10%, and -10% outcomes.
 5. Saves `data/aapl_daily.csv` and `output/simulation_paths.png`.
 
+<img width="1210" height="663" alt="image" src="https://github.com/user-attachments/assets/d1a7b42c-084d-4ef5-a915-43ee05287776" />
+
+<img width="562" height="178" alt="image" src="https://github.com/user-attachments/assets/1ba5220b-4648-4a60-bd8a-eb46f9ad5e10" />
+
+
+
 ## Setup in VS Code on Windows
 
 1. Get a free API key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key).
